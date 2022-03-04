@@ -48,7 +48,6 @@ T: 37.6
 HR: 76
 BP: 110/70
 
------------
 DOB(YYYYMMDD): 20011111
 Postal Code: 123456
 Block and Street: BLK 123 EXAMPLE STREET 1
