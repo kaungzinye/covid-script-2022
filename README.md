@@ -11,7 +11,7 @@ into a form that is to be submitted to record these patients in MOH's database o
 The process was tedious and there were 20+ patiets daily hence I decided to automate it using python
 to save hours worth of time.
 
-## How TO INSTALL
+## HOW TO INSTALL
 
 Make sure you have python 3 downloaded and then glone this git repository
 
