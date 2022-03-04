@@ -24,7 +24,7 @@ Make sure you have python 3 downloaded and then glone this git repository
 
 ### THIS IS THE FORMAT FOR THE MESSAGE TO BE SENT BY TRIAGING MEDIC AFTER TRIAGING A COVID POSITIVE PATIENT
 
-`COVID (I.E. PA-ART +VE) PATIENT DETAILS
+```COVID (I.E. PA-ART +VE) PATIENT DETAILS
 
 PATIENT NUMBER: (Number of total covid positive patients for easy tracking.)
 
@@ -52,7 +52,8 @@ Postal Code: 123456
 Block and Street: BLK 123 EXAMPLE STREET 1
 Level and Unit Number : 12-345
 Nationality: SINGAPOREAN
-Mobile No: 12345678`
+Mobile No: 12345678
+```
 
 2. Copy paste this message from your respective group chat and into the test.txt
    file.
