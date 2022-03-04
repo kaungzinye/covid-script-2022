@@ -24,7 +24,8 @@ Make sure you have python 3 downloaded and then glone this git repository
 
 ### THIS IS THE FORMAT FOR THE MESSAGE TO BE SENT BY TRIAGING MEDIC AFTER TRIAGING A COVID POSITIVE PATIENT
 
-```COVID (I.E. PA-ART +VE) PATIENT DETAILS
+```
+COVID (I.E. PA-ART +VE) PATIENT DETAILS
 
 PATIENT NUMBER: (Number of total covid positive patients for easy tracking.)
 
