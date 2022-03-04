@@ -1,8 +1,8 @@
-#Covid Form Submitting Script
+# Covid Form Submitting Script
 This python script was created by me as a way to automate the 
 submission of details of PA-ART +VE patients in camp.
 
-#Why did I make this script?
+# Why did I make this script?
 Previously, the triaging medic would send a message containing the required details of
 PA-ART +VE patient to a group chat. I would then need to manually copy the required information
 into a form that is to be submitted to record these patients in MOH's database of C+ patients.
@@ -10,16 +10,16 @@ The process was tedious and there were 20+ patiets daily hence I decided to auto
 to save hours worth of time.
 
 
-##How TO INSTALL
+## HOW TO INSTALL
 Make sure you have python 3 downloaded and then glone this git repository
 
-##HOW TO USE:
+## HOW TO USE:
 1. The triaging medic should send a message using the format below to send the details of the 
 patient, both for the Doctor to gain key info about the patient's condition, as well as to include 
 details such as the patient's address and phone number so that MOH can keep track of which 
 patients have had contracted COVID-19.
 
-###THIS IS THE FORMAT FOR THE MESSAGE TO BE SENT BY TRIAGING MEDIC AFTER TRIAGING A COVID POSITIVE PATIENT
+### THIS IS THE FORMAT FOR THE MESSAGE TO BE SENT BY TRIAGING MEDIC AFTER TRIAGING A COVID POSITIVE PATIENT
 
 COVID (I.E. PA-ART +VE) PATIENT DETAILS
 
